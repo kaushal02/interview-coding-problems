@@ -7,15 +7,10 @@ Please note we have a code of conduct, please follow it in all your interactions
 
 ## Steps before creating a Pull request
 
-1. Please ensure that the file has a comment-block at the top following these norms:
-   * First line contains the company name followed by college name and year that the problem
-     appeared in. If multiple candidates apply, add them with newlines
-   * Next block of lines explains the Problem Statement clearly
-   * Next block contains the constraints for the variables appeared in the problem statement
-   * Next few lines (optional) has a brief explanation of your approach and/or link to the problem
-   * Last line (optional) mentions the [runtime complexity][run] of your code
-2. Please try to write clean and indented code. Sparsely occuring concise comments are also fine
-   but not mandatory.
+1. Please check the [template](../README.md#template) and adhere to the specific format in your submitted file
+2. Please try to write clean and indented code. Sparsely occuring concise comments are also fine but not mandatory
+3. Please ensure that the commit message follows the following format - Company name, College name, Year
+4. Please ensure that the filename describes the problem statement as clearly as possible
 
 ## Contributing workflow
 
