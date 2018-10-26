@@ -3,7 +3,7 @@ Flipkart IIT Kanpur 2018
 
 Given two vectors of length n representing the x and y 
 coordinates of cartesian points, find the minimum possible area 
-of a rectangle which can be formed using four distinct points.
+of a rectangle which can be formed using four distinct points which has sides parallel to the x & y axis.
 If non rectangle can be formed, return -1.
 
 1 <= n <= 1000
