@@ -12,7 +12,7 @@ complete array.
 O(N + log N)
 */
 int minBin(vector<int> a) {
-	int n = a.size();
+	int n = max_element(a.begin(),a.end());
 	vector<int> c(n + 30);
 	for (int ai : a) c[ai]++;
 
