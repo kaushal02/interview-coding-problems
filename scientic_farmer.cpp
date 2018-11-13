@@ -72,6 +72,6 @@ int main() {
 	// call two times
 	// once not taking the first element
 	// once taking the first element
-	int res = (recurse(2,false,false) , recurse(2,true,true) + a[1]);
+	int res = max(recurse(2,false,false) , recurse(2,true,true) + a[1]);
 	cout << res << endl;
 }
