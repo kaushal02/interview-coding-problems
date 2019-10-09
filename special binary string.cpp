@@ -6,9 +6,14 @@ Special binary strings are binary strings with the following two properties:
 
 The number of 0's is equal to the number of 1's.
 Every prefix of the binary string has at least as many 1's as 0's.
-Given a special string S, a move consists of choosing two consecutive, non-empty, special substrings of S, and swapping them. (Two strings are consecutive if the last character of the first string is exactly one index before the first character of the second string.)
+Given a special string S, a move consists of choosing two consecutive, non-empty, 
+special substrings of S, and swapping them. (Two strings are consecutive if the last character 
+of the first string is exactly one index before the first character of the second string.)
 
 At the end of any number of moves, what is the lexicographically largest resulting string possible?
+
+Solution:
+Recursively try to find the lexicographically largest strings and sort them using a comparator function.
 
 */
 
