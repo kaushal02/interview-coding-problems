@@ -1,6 +1,6 @@
 # Introduction
 
-This repo contains coding problems previously appeared in online campus placement tests across IITs, NITs, and other top engineering colleges in India.
+This repository contains coding problems previously appeared in online campus placement tests across IITs, NITs, and other top engineering colleges in India.
 
 # Template
 
