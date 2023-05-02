@@ -1,11 +1,11 @@
 /*
 Walmart Labs IIT Dhanbad 2018
 
-For a given number A, following operations are allowed:
-1. A -> A + 1
-2. A -> A - 1 (provided A > 0)
-3. A -> 2 * A
-Cost of operation 1 and 2 is equal to A and cost of operation 2 is B.
+For a given number N, following operations are allowed:
+1. N -> N + 1
+2. N -> N - 1 (provided N > 0)
+3. N -> 2 * N
+Cost of operation 1 and 2 is equal to A and cost of operation 3 is B.
 Find the minimum cost to reach X starting from 0.
 
 1 <= X <= 100000
